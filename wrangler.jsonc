@@ -1,0 +1,6 @@
+{
+  "name": "did-viktor-make-a-mistake",
+  "compatibility_date": "2026-11-10",
+  "assets": { "directory": ".", "not_found_handling": "single-page-application" },
+  "routes": [{ "pattern": "did-viktor-make-a-mistake.elevatech.xyz", "custom_domain": true }]
+}
